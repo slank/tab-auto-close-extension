@@ -42,7 +42,3 @@ The tool also includes other features:
 <li>No browsing data sent to Spince</li>
 <li>Open source code on github</li>
 </ul>
-
-## Additional Notes
-
-New features and pull requests are appreciated. There are also plans to build Tab Auto Close for other platforms (Firefox, Safari, mobile).
